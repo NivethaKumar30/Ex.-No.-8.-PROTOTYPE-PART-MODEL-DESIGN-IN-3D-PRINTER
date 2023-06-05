@@ -47,7 +47,8 @@
 
 ## Output:
 
-![image](https://github.com/NivethaKumar30/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119559844/8c60db42-3e99-4a4a-9713-982cfed67da8)
+![image](https://github.com/NivethaKumar30/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119559844/cd4e5ee8-b411-4396-8b33-11fe14a217ff)
+
 
 ### Name:NIVETHA K 
 ### Register Number:212222230102
